@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-#### I'm [**Vinicius**](https://videmelo.me), a Full-Stack student from Brazil!
+#### I'm [**Vinicius**](https://videmelo.me), a software developer passionate about technology!
 
 - 📚 I'm currently learning **JavaScript**
 - ⚙️ I use daily `.html`; `.(s)css`; `.js`; `.ts`; `.jsx`; `.tsx`
