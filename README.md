@@ -1,10 +1,9 @@
-### Hi there! 👋
+<img src="./miles.gif" align="left">
+
+### Hello World! 👋
 
 #### I'm [**Vinicius**](https://videmelo.me), a software developer passionate about technology!
 
-- 📚 I'm currently learning **JavaScript**
-- ⚙️ I use daily `.html`; `.(s)css`; `.js`; `.ts`; `.jsx`; `.tsx`
-- 💬 Ask me about **Technology**, **Web Development** and **Software Development**
-- 🌍 I'm mostly active within the **JavaScript Community**
-
-###### Like my work? [**Buy me a coffee!**](https://buymeacoffee.com/VideMelo)
+- 📚 I'm currently learning all I can :) 
+- ⚙️ I use daily `.js(x)`; `.ts(x)`; `.py`
+- 🌍 I'm mostly active within the **Open Source Community**
