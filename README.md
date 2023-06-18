@@ -1,4 +1,4 @@
-<a href="https://github.com/VideMelo"><img src="./miles.gif" align="left"></a>
+<a href="https://github.com/VideMelo"><img src="./miles.gif" align="right"></a>
 
 ### Hello World! 👋
 
