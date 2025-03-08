@@ -1,4 +1,4 @@
-<a href="https://github.com/VideMelo"><img height="300px" src="./miles.gif" align="right"></a>
+<a href="https://github.com/VideMelo"><img height="290px" src="./miles.gif" align="right"></a>
 ### Hello World! 👋
 
 #### I'm [**Vinicius**](https://videmelo.me), a software developer passionate about technology!
@@ -12,5 +12,3 @@
 
 **Software Engineering** \
 [**Positivo University**](https://cursos.up.edu.br/grad-engenharia-de-software-up/p) • In progress - 1st Semester
-
-<br/>
